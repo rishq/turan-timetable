@@ -1,0 +1,8869 @@
+{
+ "meta": {
+  "source": "data/source/timetable-spring-2026.pdf",
+  "sourceNote": "aSc Расписание, Университет Туран; PDF metadata title decodes to a spring ('весенний') timetable dated 23.01.2026",
+  "effectiveFrom": null,
+  "effectiveTo": null,
+  "kind": "recurring-weekly",
+  "completeness": "unknown",
+  "slots": [
+   {
+    "n": 1,
+    "start": "08:00",
+    "end": "08:50"
+   },
+   {
+    "n": 2,
+    "start": "09:00",
+    "end": "09:50"
+   },
+   {
+    "n": 3,
+    "start": "10:00",
+    "end": "10:50"
+   },
+   {
+    "n": 4,
+    "start": "11:00",
+    "end": "11:50"
+   },
+   {
+    "n": 5,
+    "start": "12:00",
+    "end": "12:50"
+   },
+   {
+    "n": 6,
+    "start": "13:10",
+    "end": "14:00"
+   },
+   {
+    "n": 7,
+    "start": "14:10",
+    "end": "15:00"
+   },
+   {
+    "n": 8,
+    "start": "15:10",
+    "end": "16:00"
+   },
+   {
+    "n": 9,
+    "start": "16:10",
+    "end": "17:00"
+   },
+   {
+    "n": 10,
+    "start": "17:10",
+    "end": "18:00"
+   }
+  ],
+  "days": [
+   {
+    "id": "mon",
+    "label": "Пн"
+   },
+   {
+    "id": "tue",
+    "label": "Вт"
+   },
+   {
+    "id": "wed",
+    "label": "Ср"
+   },
+   {
+    "id": "thu",
+    "label": "Чт"
+   },
+   {
+    "id": "fri",
+    "label": "Пт"
+   },
+   {
+    "id": "sat",
+    "label": "Сб"
+   }
+  ]
+ },
+ "groups": [
+  {
+   "id": "vtpo231-4",
+   "name": "ВТПО231(4)",
+   "sourcePages": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "id": "vtpo232-4",
+   "name": "ВТПО232(4)",
+   "sourcePages": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+   ]
+  },
+  {
+   "id": "ret232-4",
+   "name": "РЭТ232(4)",
+   "sourcePages": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3
+   ]
+  },
+  {
+   "id": "ret231-4-1",
+   "name": "РЭТ231(4)_1",
+   "sourcePages": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+   ]
+  },
+  {
+   "id": "ret231-4-2",
+   "name": "РЭТ231(4)_2",
+   "sourcePages": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+   ]
+  },
+  {
+   "id": "ret231-4-3",
+   "name": "РЭТ231(4)_3",
+   "sourcePages": [
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6
+   ]
+  },
+  {
+   "id": "pi232-4",
+   "name": "ПИ232(4)",
+   "sourcePages": [
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7
+   ]
+  },
+  {
+   "id": "vtpo241-4",
+   "name": "ВТПО241(4)",
+   "sourcePages": [
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8
+   ]
+  },
+  {
+   "id": "vtpo242-4",
+   "name": "ВТПО242(4)",
+   "sourcePages": [
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9
+   ]
+  },
+  {
+   "id": "pi242-4",
+   "name": "ПИ242(4)",
+   "sourcePages": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10
+   ]
+  },
+  {
+   "id": "ret241-4-1",
+   "name": "РЭТ241(4)_1",
+   "sourcePages": [
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11
+   ]
+  },
+  {
+   "id": "ret241-4-2",
+   "name": "РЭТ241(4)_2",
+   "sourcePages": [
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12
+   ]
+  },
+  {
+   "id": "ret242-4",
+   "name": "РЭТ242(4)",
+   "sourcePages": [
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13
+   ]
+  },
+  {
+   "id": "vtpo241-3",
+   "name": "ВТПО241(3)",
+   "sourcePages": [
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14
+   ]
+  },
+  {
+   "id": "vtpo242-3",
+   "name": "ВТПО242(3)",
+   "sourcePages": [
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15
+   ]
+  },
+  {
+   "id": "pi242-3",
+   "name": "ПИ242(3)",
+   "sourcePages": [
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16
+   ]
+  },
+  {
+   "id": "ret241-3",
+   "name": "РЭТ241(3)",
+   "sourcePages": [
+    17,
+    17,
+    17,
+    17,
+    17,
+    17,
+    17,
+    17,
+    17,
+    17,
+    17,
+    17,
+    17,
+    17
+   ]
+  },
+  {
+   "id": "ret242-3",
+   "name": "РЭТ242(3)",
+   "sourcePages": [
+    18,
+    18,
+    18,
+    18,
+    18,
+    18,
+    18,
+    18,
+    18,
+    18,
+    18,
+    18,
+    18,
+    18
+   ]
+  },
+  {
+   "id": "vtpo251-4",
+   "name": "ВТПО251(4)",
+   "sourcePages": [
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "id": "vtpo252-4",
+   "name": "ВТПО252(4)",
+   "sourcePages": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20
+   ]
+  },
+  {
+   "id": "pi251-4",
+   "name": "ПИ251(4)",
+   "sourcePages": [
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21
+   ]
+  },
+  {
+   "id": "pi252-4",
+   "name": "ПИ252(4)",
+   "sourcePages": [
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22
+   ]
+  },
+  {
+   "id": "ret251-4",
+   "name": "РЭТ251(4)",
+   "sourcePages": [
+    23,
+    23,
+    23,
+    23,
+    23,
+    23,
+    23,
+    23,
+    23,
+    23,
+    23
+   ]
+  },
+  {
+   "id": "vtpo252-3-1",
+   "name": "ВТПО252(3)_1",
+   "sourcePages": [
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24
+   ]
+  },
+  {
+   "id": "vtpo252-3-2",
+   "name": "ВТПО252(3)_2",
+   "sourcePages": [
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  {
+   "id": "vtpo252-2",
+   "name": "ВТПО252(2)",
+   "sourcePages": [
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26
+   ]
+  },
+  {
+   "id": "pi252-3",
+   "name": "ПИ252(3)",
+   "sourcePages": [
+    27,
+    27,
+    27,
+    27,
+    27,
+    27,
+    27,
+    27,
+    27,
+    27,
+    27,
+    27,
+    27,
+    27
+   ]
+  },
+  {
+   "id": "ret252-3",
+   "name": "РЭТ252(3)",
+   "sourcePages": [
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28
+   ]
+  }
+ ],
+ "subjects": [
+  {
+   "id": "s-1086cf19",
+   "name": "1C и интеграция систем"
+  },
+  {
+   "id": "s-6bbab70e",
+   "name": "Cisco - II"
+  },
+  {
+   "id": "s-94d75570",
+   "name": "UX/UI - дизайн"
+  },
+  {
+   "id": "s-a5743766",
+   "name": "Web - технологии"
+  },
+  {
+   "id": "s-adc077d5",
+   "name": "Web-технологии I"
+  },
+  {
+   "id": "s-bd41e6be",
+   "name": "Академическое письмо"
+  },
+  {
+   "id": "s-54de0997",
+   "name": "Алгоритмизация и программирование"
+  },
+  {
+   "id": "s-dff68435",
+   "name": "Аналитика данных"
+  },
+  {
+   "id": "s-06b65c4c",
+   "name": "Антенно-фидерные устройства"
+  },
+  {
+   "id": "s-057581fe",
+   "name": "Архитектура и организация вычислительных систем"
+  },
+  {
+   "id": "s-277706b0",
+   "name": "Введение в предпринимательство"
+  },
+  {
+   "id": "s-e344542f",
+   "name": "Высшая математика - ІІ"
+  },
+  {
+   "id": "s-9ca10c47",
+   "name": "Дискретная математика"
+  },
+  {
+   "id": "s-31b713d4",
+   "name": "Инженерия программного обеспечения"
+  },
+  {
+   "id": "s-8c7d7fcd",
+   "name": "Иностранный язык - II"
+  },
+  {
+   "id": "s-36a0b2a9",
+   "name": "Казахский (Русcкий) язык - II"
+  },
+  {
+   "id": "s-820c0eca",
+   "name": "Компьютерная графика и прикладные пакеты моделирования сетей телекоммуникаций"
+  },
+  {
+   "id": "s-bb60af74",
+   "name": "Компьютерные сети"
+  },
+  {
+   "id": "s-ab737869",
+   "name": "Культурология"
+  },
+  {
+   "id": "s-91e616b8",
+   "name": "Маршрутизация масштабирование и коммутация сетей (Cisco)"
+  },
+  {
+   "id": "s-d3f2cebe",
+   "name": "Методы и средства защиты компьютерной информации"
+  },
+  {
+   "id": "s-eb79b3dd",
+   "name": "Метрология стандартизация и сертификация техники связи"
+  },
+  {
+   "id": "s-20657a13",
+   "name": "Мультимедиа технологии"
+  },
+  {
+   "id": "s-b410ca8d",
+   "name": "Объектно-ориентированное программирование"
+  },
+  {
+   "id": "s-d5ec15ba",
+   "name": "Операционная система Linux"
+  },
+  {
+   "id": "s-9a31527b",
+   "name": "Политология"
+  },
+  {
+   "id": "s-bf605112",
+   "name": "Программирование на языке Java - II"
+  },
+  {
+   "id": "s-74a4b22e",
+   "name": "Программирование на языке Python"
+  },
+  {
+   "id": "s-69b17284",
+   "name": "Программирование цифровых устройств"
+  },
+  {
+   "id": "s-51bac7bf",
+   "name": "Проектирование и разработка архитектуры клиент серверного ПО (Cisco)"
+  },
+  {
+   "id": "s-dd2eaae5",
+   "name": "Психология"
+  },
+  {
+   "id": "s-21ac2dfb",
+   "name": "Радиовещание и акустика"
+  },
+  {
+   "id": "s-9bac184d",
+   "name": "Радиопередающие и радиоприемные устройства"
+  },
+  {
+   "id": "s-c86e9c32",
+   "name": "Радиосети спутниковой связи"
+  },
+  {
+   "id": "s-e65fbb39",
+   "name": "Сети и системы телекоммуникаций"
+  },
+  {
+   "id": "s-4e79c780",
+   "name": "Системное программирование"
+  },
+  {
+   "id": "s-6d6ae55e",
+   "name": "Системы искусственного интеллекта"
+  },
+  {
+   "id": "s-a826991d",
+   "name": "Системы искусственного интеллекта - I"
+  },
+  {
+   "id": "s-9242a88e",
+   "name": "Сотовые сети"
+  },
+  {
+   "id": "s-6f8bbe52",
+   "name": "Социология"
+  },
+  {
+   "id": "s-94a56199",
+   "name": "Тестирование и сертификация программного обеспечения"
+  },
+  {
+   "id": "s-f6294054",
+   "name": "Технология интернет вещей"
+  },
+  {
+   "id": "s-93fa697a",
+   "name": "Технология печатных плат и поверхностного монтажа"
+  },
+  {
+   "id": "s-52c58af2",
+   "name": "Управление и контроль командной разработки программного обеспечения"
+  },
+  {
+   "id": "s-4bd002e1",
+   "name": "Физика - II"
+  },
+  {
+   "id": "s-e6c11acf",
+   "name": "Физическая культура - II"
+  },
+  {
+   "id": "s-605608a3",
+   "name": "Физическая культура - IV"
+  },
+  {
+   "id": "s-1786e2de",
+   "name": "Цифровая коммутация"
+  },
+  {
+   "id": "s-b639be5f",
+   "name": "Цифровое телевидение и видеотехника"
+  },
+  {
+   "id": "s-9c8ef3e1",
+   "name": "Электроника"
+  },
+  {
+   "id": "s-5d3738d9",
+   "name": "Электроника и схемотехника"
+  }
+ ],
+ "teachers": [
+  {
+   "id": "t-fd13e53e",
+   "name": "Абылай Назерке Патшаханкызы"
+  },
+  {
+   "id": "t-d15fc5e1",
+   "name": "Авелбекова Салтанат Шаймардановна"
+  },
+  {
+   "id": "t-986dc544",
+   "name": "Айнақұл Әлжан Жақанұлы"
+  },
+  {
+   "id": "t-8b2b60c3",
+   "name": "Аленова Райкуль Алтынбековна"
+  },
+  {
+   "id": "t-e91262d2",
+   "name": "Алимбетов Куанышбек Кишкинбаевич"
+  },
+  {
+   "id": "t-e19e8cbd",
+   "name": "Амирханов Бауыржан Сайдашевич"
+  },
+  {
+   "id": "t-68747d5a",
+   "name": "Атабекова Бактыгул Ботабековна"
+  },
+  {
+   "id": "t-dab71a9b",
+   "name": "Баймухамбетова Мария Куандыковна"
+  },
+  {
+   "id": "t-defdfb5d",
+   "name": "Бимолданова Айгуль Амантаевна"
+  },
+  {
+   "id": "t-b37fe85e",
+   "name": "Жаксыбаева Наталья Николаевна"
+  },
+  {
+   "id": "t-4122b4da",
+   "name": "Жетписбаев Кайратбек Уристимбекович"
+  },
+  {
+   "id": "t-0c723253",
+   "name": "Зильгараева Алия Кылышбаевна"
+  },
+  {
+   "id": "t-496b4be7",
+   "name": "Искакова Гульназ Канашевна"
+  },
+  {
+   "id": "t-5b4e645d",
+   "name": "Канай Назира Сайлаубаевна"
+  },
+  {
+   "id": "t-30a4a5ba",
+   "name": "Касымбек Алмат Талгатулы"
+  },
+  {
+   "id": "t-f3247cd7",
+   "name": "Касымжанова Маржан Ерлановна"
+  },
+  {
+   "id": "t-56ec5b90",
+   "name": "Кашаганова Гулжан Бакытовна"
+  },
+  {
+   "id": "t-84b5d9d7",
+   "name": "Кельменбетова Алия Алимбаевна"
+  },
+  {
+   "id": "t-533e3f16",
+   "name": "Курманбаева Альмира Амангельдиновна"
+  },
+  {
+   "id": "t-5facce2a",
+   "name": "Луганская Сауле Плановна"
+  },
+  {
+   "id": "t-b3fb409d",
+   "name": "Майнцер Дмитрий Александрович"
+  },
+  {
+   "id": "t-3d3cd2a3",
+   "name": "Мирзакулова Шарафат Абдурахимовна"
+  },
+  {
+   "id": "t-73b0a63d",
+   "name": "Муканова Жанна Аскаровна"
+  },
+  {
+   "id": "t-f1d24288",
+   "name": "Мунтаев Нуржан Амангельдыевич"
+  },
+  {
+   "id": "t-5e6b3b2b",
+   "name": "Нурбаева Аида Мухтаровна"
+  },
+  {
+   "id": "t-01196e5e",
+   "name": "Нурымова Сауле Кенесовна"
+  },
+  {
+   "id": "t-79a50301",
+   "name": "Нусупбеков Серик Имансерикович"
+  },
+  {
+   "id": "t-8f6c6799",
+   "name": "Нөке Айдана Ғабиденқызы"
+  },
+  {
+   "id": "t-f3d9fe98",
+   "name": "Окенова Баян Болатканкызы"
+  },
+  {
+   "id": "t-0170009a",
+   "name": "Оналбаева Гульнур Орынбасаровна"
+  },
+  {
+   "id": "t-3445c832",
+   "name": "Сейдаз Талгат Муратович"
+  },
+  {
+   "id": "t-548a036a",
+   "name": "Стамгазиева Жибек Кайргалиевна"
+  },
+  {
+   "id": "t-d6f83a76",
+   "name": "Тортбаев Канат Абилгазиевич"
+  },
+  {
+   "id": "t-5a8dfe83",
+   "name": "Турганбай Куралай Егынбайкызы"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "vtpo231-4-mon-1-practical-31b7",
+   "groupId": "vtpo231-4",
+   "day": "mon",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-31b713d4",
+   "type": "practical",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 1,
+    "rawSubject": "Инженерия программного обеспечения (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo231-4-mon-3-practical-d5ec",
+   "groupId": "vtpo231-4",
+   "day": "mon",
+   "slotStart": 3,
+   "slotEnd": 5,
+   "start": "10:00",
+   "end": "12:50",
+   "subjectId": "s-d5ec15ba",
+   "type": "practical",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 1,
+    "rawSubject": "Операционная система Linux (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo231-4-tue-3-practical-51ba",
+   "groupId": "vtpo231-4",
+   "day": "tue",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-51bac7bf",
+   "type": "practical",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 1,
+    "rawSubject": "Проектирование и разработка архитектуры клиент серверного ПО (Cisco) (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo231-4-tue-5-practical-6d6a",
+   "groupId": "vtpo231-4",
+   "day": "tue",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-6d6ae55e",
+   "type": "practical",
+   "teacherId": "t-73b0a63d",
+   "teacher": "Муканова Жанна Аскаровна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 1,
+    "rawSubject": "Системы искусственного интеллекта (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo231-4-thu-6-lecture-6d6a",
+   "groupId": "vtpo231-4",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-6d6ae55e",
+   "type": "lecture",
+   "teacherId": "t-73b0a63d",
+   "teacher": "Муканова Жанна Аскаровна",
+   "room": "GM 9",
+   "variant": null,
+   "source": {
+    "page": 1,
+    "rawSubject": "Системы искусственног о интеллекта (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo231-4-thu-7-lecture-51ba",
+   "groupId": "vtpo231-4",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-51bac7bf",
+   "type": "lecture",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 1,
+    "rawSubject": "Проектирование и разработка архитектуры клиент серверного ПО (Cisco)(лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo231-4-thu-8-lecture-d5ec",
+   "groupId": "vtpo231-4",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 9,
+   "start": "15:10",
+   "end": "17:00",
+   "subjectId": "s-d5ec15ba",
+   "type": "lecture",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 1,
+    "rawSubject": "Операционная система Linux (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo231-4-thu-10-lecture-31b7",
+   "groupId": "vtpo231-4",
+   "day": "thu",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-31b713d4",
+   "type": "lecture",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 1,
+    "rawSubject": "Инженерия программного обеспечения (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo231-4-fri-5-lecture-2065",
+   "groupId": "vtpo231-4",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-20657a13",
+   "type": "lecture",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 1,
+    "rawSubject": "Мультимедиа технологии (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo231-4-fri-6-practical-2065",
+   "groupId": "vtpo231-4",
+   "day": "fri",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-20657a13",
+   "type": "practical",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 1,
+    "rawSubject": "Мультимедиа технологии (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo232-4-mon-6-practical-31b7",
+   "groupId": "vtpo232-4",
+   "day": "mon",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-31b713d4",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 2,
+    "rawSubject": "Инженерия программного обеспечения (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo232-4-mon-8-practical-d5ec",
+   "groupId": "vtpo232-4",
+   "day": "mon",
+   "slotStart": 8,
+   "slotEnd": 10,
+   "start": "15:10",
+   "end": "18:00",
+   "subjectId": "s-d5ec15ba",
+   "type": "practical",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 2,
+    "rawSubject": "Операционная система Linux (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo232-4-tue-3-practical-6d6a",
+   "groupId": "vtpo232-4",
+   "day": "tue",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-6d6ae55e",
+   "type": "practical",
+   "teacherId": "t-73b0a63d",
+   "teacher": "Муканова Жанна Аскаровна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 2,
+    "rawSubject": "Системы искусственного интеллекта (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo232-4-tue-5-practical-51ba",
+   "groupId": "vtpo232-4",
+   "day": "tue",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-51bac7bf",
+   "type": "practical",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 2,
+    "rawSubject": "Проектирование и разработка архитектуры клиент серверного ПО (Cisco) (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo232-4-wed-3-practical-2065",
+   "groupId": "vtpo232-4",
+   "day": "wed",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-20657a13",
+   "type": "practical",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 2,
+    "rawSubject": "Мультимедиа технологии (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo232-4-thu-5-lecture-2065",
+   "groupId": "vtpo232-4",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-20657a13",
+   "type": "lecture",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 2,
+    "rawSubject": "Мультимедиа технологии (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo232-4-thu-6-lecture-6d6a",
+   "groupId": "vtpo232-4",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-6d6ae55e",
+   "type": "lecture",
+   "teacherId": "t-73b0a63d",
+   "teacher": "Муканова Жанна Аскаровна",
+   "room": "GM 9",
+   "variant": null,
+   "source": {
+    "page": 2,
+    "rawSubject": "Системы искусственног о интеллекта (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo232-4-thu-7-lecture-51ba",
+   "groupId": "vtpo232-4",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-51bac7bf",
+   "type": "lecture",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 2,
+    "rawSubject": "Проектирование и разработка архитектуры клиент серверного ПО (Cisco)(лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo232-4-thu-8-lecture-d5ec",
+   "groupId": "vtpo232-4",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 9,
+   "start": "15:10",
+   "end": "17:00",
+   "subjectId": "s-d5ec15ba",
+   "type": "lecture",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 2,
+    "rawSubject": "Операционная система Linux (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo232-4-thu-10-lecture-31b7",
+   "groupId": "vtpo232-4",
+   "day": "thu",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-31b713d4",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 4",
+   "variant": null,
+   "source": {
+    "page": 2,
+    "rawSubject": "Инженерия программного обеспечения (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-mon-7-practical-1786",
+   "groupId": "ret232-4",
+   "day": "mon",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-1786e2de",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Цифровая коммутация (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-tue-3-practical-b639",
+   "groupId": "ret232-4",
+   "day": "tue",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b639be5f",
+   "type": "practical",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Цифровое телевидение и видеотехника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-tue-5-practical-c86e",
+   "groupId": "ret232-4",
+   "day": "tue",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-c86e9c32",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Радиосети спутниковой связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-wed-1-practical-21ac",
+   "groupId": "ret232-4",
+   "day": "wed",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-21ac2dfb",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Радиовещание и акустика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-wed-3-practical-9242",
+   "groupId": "ret232-4",
+   "day": "wed",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-9242a88e",
+   "type": "practical",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Сотовые сети (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-thu-4-lecture-1786",
+   "groupId": "ret232-4",
+   "day": "thu",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-1786e2de",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Цифровая коммутация (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-thu-5-lecture-b639",
+   "groupId": "ret232-4",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-b639be5f",
+   "type": "lecture",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Цифровое телевидение и видеотехника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-thu-6-lecture-9242",
+   "groupId": "ret232-4",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-9242a88e",
+   "type": "lecture",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "GM 6",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Сотовые сети (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-thu-7-lecture-21ac",
+   "groupId": "ret232-4",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-21ac2dfb",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 12",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Радиовещание и акустика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-thu-8-lecture-e65f",
+   "groupId": "ret232-4",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-e65fbb39",
+   "type": "lecture",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "GM 9",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Сети и системы телекоммуникаций (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-thu-10-lecture-c86e",
+   "groupId": "ret232-4",
+   "day": "thu",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-c86e9c32",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Радиосети спутниковой связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret232-4-fri-7-practical-e65f",
+   "groupId": "ret232-4",
+   "day": "fri",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-e65fbb39",
+   "type": "practical",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 3,
+    "rawSubject": "Сети и системы телекоммуникаций (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-mon-3-practical-c86e",
+   "groupId": "ret231-4-1",
+   "day": "mon",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-c86e9c32",
+   "type": "practical",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Радиосети спутниковой связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-tue-7-practical-b639",
+   "groupId": "ret231-4-1",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-b639be5f",
+   "type": "practical",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Цифровое телевидение и видеотехника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-tue-9-practical-21ac",
+   "groupId": "ret231-4-1",
+   "day": "tue",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-21ac2dfb",
+   "type": "practical",
+   "teacherId": "t-3445c832",
+   "teacher": "Сейдаз Талгат Муратович",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Радиовещание и акустика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-wed-5-practical-1786",
+   "groupId": "ret231-4-1",
+   "day": "wed",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-1786e2de",
+   "type": "practical",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Цифровая коммутация (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-wed-7-practical-9242",
+   "groupId": "ret231-4-1",
+   "day": "wed",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-9242a88e",
+   "type": "practical",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Сотовые сети (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-wed-8-practical-9242",
+   "groupId": "ret231-4-1",
+   "day": "wed",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-9242a88e",
+   "type": "practical",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Сотовые сети (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-thu-3-lecture-c86e",
+   "groupId": "ret231-4-1",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-c86e9c32",
+   "type": "lecture",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Радиосети спутниковой связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-thu-4-lecture-21ac",
+   "groupId": "ret231-4-1",
+   "day": "thu",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-21ac2dfb",
+   "type": "lecture",
+   "teacherId": "t-3445c832",
+   "teacher": "Сейдаз Талгат Муратович",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Радиовещание и акустика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-thu-5-lecture-b639",
+   "groupId": "ret231-4-1",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-b639be5f",
+   "type": "lecture",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Цифровое телевидение и видеотехника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-thu-6-lecture-9242",
+   "groupId": "ret231-4-1",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-9242a88e",
+   "type": "lecture",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "GM 6",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Сотовые сети (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-thu-7-lecture-1786",
+   "groupId": "ret231-4-1",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-1786e2de",
+   "type": "lecture",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Цифровая коммутация (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-thu-8-lecture-e65f",
+   "groupId": "ret231-4-1",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-e65fbb39",
+   "type": "lecture",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "GM 4",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Сети и системы телекоммуникаций (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-1-fri-9-practical-e65f",
+   "groupId": "ret231-4-1",
+   "day": "fri",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-e65fbb39",
+   "type": "practical",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 4,
+    "rawSubject": "Сети и системы телекоммуникаций (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-mon-5-practical-c86e",
+   "groupId": "ret231-4-2",
+   "day": "mon",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-c86e9c32",
+   "type": "practical",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Радиосети спутниковой связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-tue-7-practical-21ac",
+   "groupId": "ret231-4-2",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-21ac2dfb",
+   "type": "practical",
+   "teacherId": "t-3445c832",
+   "teacher": "Сейдаз Талгат Муратович",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Радиовещание и акустика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-tue-9-practical-b639",
+   "groupId": "ret231-4-2",
+   "day": "tue",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-b639be5f",
+   "type": "practical",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Цифровое телевидение и видеотехника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-wed-5-practical-9242",
+   "groupId": "ret231-4-2",
+   "day": "wed",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-9242a88e",
+   "type": "practical",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Сотовые сети (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-wed-7-practical-1786",
+   "groupId": "ret231-4-2",
+   "day": "wed",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-1786e2de",
+   "type": "practical",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Цифровая коммутация (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-thu-3-lecture-c86e",
+   "groupId": "ret231-4-2",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-c86e9c32",
+   "type": "lecture",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Радиосети спутниковой связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-thu-4-lecture-21ac",
+   "groupId": "ret231-4-2",
+   "day": "thu",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-21ac2dfb",
+   "type": "lecture",
+   "teacherId": "t-3445c832",
+   "teacher": "Сейдаз Талгат Муратович",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Радиовещание и акустика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-thu-5-lecture-b639",
+   "groupId": "ret231-4-2",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-b639be5f",
+   "type": "lecture",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Цифровое телевидение и видеотехника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-thu-6-lecture-9242",
+   "groupId": "ret231-4-2",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-9242a88e",
+   "type": "lecture",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "GM 6",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Сотовые сети (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-thu-7-lecture-1786",
+   "groupId": "ret231-4-2",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-1786e2de",
+   "type": "lecture",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Цифровая коммутация (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-thu-8-lecture-e65f",
+   "groupId": "ret231-4-2",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-e65fbb39",
+   "type": "lecture",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "GM 4",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Сети и системы телекоммуникаций (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-2-fri-5-practical-e65f",
+   "groupId": "ret231-4-2",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-e65fbb39",
+   "type": "practical",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 5,
+    "rawSubject": "Сети и системы телекоммуникаций (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-mon-5-practical-c86e",
+   "groupId": "ret231-4-3",
+   "day": "mon",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-c86e9c32",
+   "type": "practical",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Радиосети спутниковой связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-tue-7-practical-21ac",
+   "groupId": "ret231-4-3",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-21ac2dfb",
+   "type": "practical",
+   "teacherId": "t-3445c832",
+   "teacher": "Сейдаз Талгат Муратович",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Радиовещание и акустика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-tue-9-practical-b639",
+   "groupId": "ret231-4-3",
+   "day": "tue",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-b639be5f",
+   "type": "practical",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Цифровое телевидение и видеотехника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-wed-5-practical-9242",
+   "groupId": "ret231-4-3",
+   "day": "wed",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-9242a88e",
+   "type": "practical",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Сотовые сети (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-wed-7-practical-1786",
+   "groupId": "ret231-4-3",
+   "day": "wed",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-1786e2de",
+   "type": "practical",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Цифровая коммутация (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-thu-3-lecture-c86e",
+   "groupId": "ret231-4-3",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-c86e9c32",
+   "type": "lecture",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Радиосети спутниковой связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-thu-4-lecture-21ac",
+   "groupId": "ret231-4-3",
+   "day": "thu",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-21ac2dfb",
+   "type": "lecture",
+   "teacherId": "t-3445c832",
+   "teacher": "Сейдаз Талгат Муратович",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Радиовещание и акустика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-thu-5-lecture-b639",
+   "groupId": "ret231-4-3",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-b639be5f",
+   "type": "lecture",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Цифровое телевидение и видеотехника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-thu-6-lecture-9242",
+   "groupId": "ret231-4-3",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-9242a88e",
+   "type": "lecture",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "GM 6",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Сотовые сети (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-thu-7-lecture-1786",
+   "groupId": "ret231-4-3",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-1786e2de",
+   "type": "lecture",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Цифровая коммутация (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-thu-8-lecture-e65f",
+   "groupId": "ret231-4-3",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-e65fbb39",
+   "type": "lecture",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "GM 4",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Сети и системы телекоммуникаций (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret231-4-3-fri-5-practical-e65f",
+   "groupId": "ret231-4-3",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-e65fbb39",
+   "type": "practical",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 6,
+    "rawSubject": "Сети и системы телекоммуникаций (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-mon-3-practical-74a4",
+   "groupId": "pi232-4",
+   "day": "mon",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-74a4b22e",
+   "type": "practical",
+   "teacherId": "t-f1d24288",
+   "teacher": "Мунтаев Нуржан Амангельдыевич",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "Программирование на языке Python(практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-tue-1-practical-91e6",
+   "groupId": "pi232-4",
+   "day": "tue",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-91e616b8",
+   "type": "practical",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "Маршрутизация, масштабирование и коммутация сетей (Cisco) (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-tue-3-practical-1086",
+   "groupId": "pi232-4",
+   "day": "tue",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-1086cf19",
+   "type": "practical",
+   "teacherId": "t-8f6c6799",
+   "teacher": "Нөке Айдана Ғабиденқызы",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "1C и интеграция систем (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-wed-3-practical-2065",
+   "groupId": "pi232-4",
+   "day": "wed",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-20657a13",
+   "type": "practical",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "Мультимедиа технологии (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-wed-5-practical-dff6",
+   "groupId": "pi232-4",
+   "day": "wed",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-dff68435",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "Аналитика данных (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-thu-3-lecture-dff6",
+   "groupId": "pi232-4",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-dff68435",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "Аналитика данных (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-thu-4-lecture-91e6",
+   "groupId": "pi232-4",
+   "day": "thu",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-91e616b8",
+   "type": "lecture",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "Маршрутизация масштабирование и коммутация сетей (Cisco) (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-thu-5-lecture-2065",
+   "groupId": "pi232-4",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-20657a13",
+   "type": "lecture",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "Мультимедиа технологии (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-thu-6-lecture-1086",
+   "groupId": "pi232-4",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-1086cf19",
+   "type": "lecture",
+   "teacherId": "t-8f6c6799",
+   "teacher": "Нөке Айдана Ғабиденқызы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "1C и интеграция систем (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-thu-7-lecture-74a4",
+   "groupId": "pi232-4",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-74a4b22e",
+   "type": "lecture",
+   "teacherId": "t-f1d24288",
+   "teacher": "Мунтаев Нуржан Амангельдыевич",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "Программирование на языке Python(лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-fri-9-lecture-94a5",
+   "groupId": "pi232-4",
+   "day": "fri",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-94a56199",
+   "type": "lecture",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "Тестирование и сертификация программного обеспечения (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi232-4-fri-10-practical-94a5",
+   "groupId": "pi232-4",
+   "day": "fri",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-94a56199",
+   "type": "practical",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 7,
+    "rawSubject": "Тестирование и сертификация программного обеспечения (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-mon-2-lecture-bb60",
+   "groupId": "vtpo241-4",
+   "day": "mon",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-bb60af74",
+   "type": "lecture",
+   "teacherId": "t-dab71a9b",
+   "teacher": "Баймухамбетова Мария Куандыковна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Компьютерные сети (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-mon-3-practical-bb60",
+   "groupId": "vtpo241-4",
+   "day": "mon",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-bb60af74",
+   "type": "practical",
+   "teacherId": "t-dab71a9b",
+   "teacher": "Баймухамбетова Мария Куандыковна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Компьютерные сети (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-tue-7-lecture-6f8b",
+   "groupId": "vtpo241-4",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-6f8bbe52",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Социология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-tue-8-lecture-9a31",
+   "groupId": "vtpo241-4",
+   "day": "tue",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-9a31527b",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Политология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-tue-9-seminar-9a31",
+   "groupId": "vtpo241-4",
+   "day": "tue",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-9a31527b",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Политология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-tue-10-seminar-6f8b",
+   "groupId": "vtpo241-4",
+   "day": "tue",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-6f8bbe52",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Социология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-wed-3-seminar-ab73",
+   "groupId": "vtpo241-4",
+   "day": "wed",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-ab737869",
+   "type": "seminar",
+   "teacherId": "t-30a4a5ba",
+   "teacher": "Касымбек Алмат Талгатулы",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Культурология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-wed-4-lecture-ab73",
+   "groupId": "vtpo241-4",
+   "day": "wed",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-ab737869",
+   "type": "lecture",
+   "teacherId": "t-84b5d9d7",
+   "teacher": "Кельменбетова Алия Алимбаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Культурология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-wed-5-lecture-dd2e",
+   "groupId": "vtpo241-4",
+   "day": "wed",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-dd2eaae5",
+   "type": "lecture",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Психология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-wed-6-seminar-dd2e",
+   "groupId": "vtpo241-4",
+   "day": "wed",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-dd2eaae5",
+   "type": "seminar",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "204",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Психология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-thu-2-lecture-0575",
+   "groupId": "vtpo241-4",
+   "day": "thu",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-057581fe",
+   "type": "lecture",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Архитектура и организация вычислительных систем (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-thu-3-lecture-b410",
+   "groupId": "vtpo241-4",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b410ca8d",
+   "type": "lecture",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Объектно-ориентированное программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-fri-7-practical-b410",
+   "groupId": "vtpo241-4",
+   "day": "fri",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-b410ca8d",
+   "type": "practical",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Объектно-ориентированное программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-4-fri-9-practical-0575",
+   "groupId": "vtpo241-4",
+   "day": "fri",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-057581fe",
+   "type": "practical",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 8,
+    "rawSubject": "Архитектура и организация вычислительных систем (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-mon-1-practical-bb60",
+   "groupId": "vtpo242-4",
+   "day": "mon",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-bb60af74",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Компьютерные сети (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-mon-3-practical-b410",
+   "groupId": "vtpo242-4",
+   "day": "mon",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b410ca8d",
+   "type": "practical",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Объектно-ориентированное программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-tue-1-seminar-9a31",
+   "groupId": "vtpo242-4",
+   "day": "tue",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-9a31527b",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Политология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-tue-2-lecture-9a31",
+   "groupId": "vtpo242-4",
+   "day": "tue",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-9a31527b",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Политология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-wed-9-lecture-ab73",
+   "groupId": "vtpo242-4",
+   "day": "wed",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-ab737869",
+   "type": "lecture",
+   "teacherId": "t-84b5d9d7",
+   "teacher": "Кельменбетова Алия Алимбаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Культурология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-wed-10-seminar-ab73",
+   "groupId": "vtpo242-4",
+   "day": "wed",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-ab737869",
+   "type": "seminar",
+   "teacherId": "t-30a4a5ba",
+   "teacher": "Касымбек Алмат Талгатулы",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Культурология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-thu-1-lecture-bb60",
+   "groupId": "vtpo242-4",
+   "day": "thu",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-bb60af74",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Компьютерные сети (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-thu-2-lecture-0575",
+   "groupId": "vtpo242-4",
+   "day": "thu",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-057581fe",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Архитектура и организация вычислительных систем (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-thu-3-lecture-b410",
+   "groupId": "vtpo242-4",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b410ca8d",
+   "type": "lecture",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Объектно-ориентированное программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-fri-1-seminar-dd2e",
+   "groupId": "vtpo242-4",
+   "day": "fri",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-dd2eaae5",
+   "type": "seminar",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Психология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-fri-2-lecture-dd2e",
+   "groupId": "vtpo242-4",
+   "day": "fri",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-dd2eaae5",
+   "type": "lecture",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Психология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-fri-3-seminar-6f8b",
+   "groupId": "vtpo242-4",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-6f8bbe52",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Социология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-fri-4-lecture-6f8b",
+   "groupId": "vtpo242-4",
+   "day": "fri",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-6f8bbe52",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Социология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-4-fri-5-practical-0575",
+   "groupId": "vtpo242-4",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-057581fe",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 9,
+    "rawSubject": "Архитектура и организация вычислительных систем (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-mon-1-practical-bb60",
+   "groupId": "pi242-4",
+   "day": "mon",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-bb60af74",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Компьютерные сети (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-mon-3-practical-b410",
+   "groupId": "pi242-4",
+   "day": "mon",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b410ca8d",
+   "type": "practical",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Объектно-ориентированное программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-tue-1-seminar-9a31",
+   "groupId": "pi242-4",
+   "day": "tue",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-9a31527b",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Политология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-tue-2-lecture-9a31",
+   "groupId": "pi242-4",
+   "day": "tue",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-9a31527b",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Политология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-wed-8-seminar-ab73",
+   "groupId": "pi242-4",
+   "day": "wed",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-ab737869",
+   "type": "seminar",
+   "teacherId": "t-30a4a5ba",
+   "teacher": "Касымбек Алмат Талгатулы",
+   "room": "204",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Культурология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-wed-9-lecture-ab73",
+   "groupId": "pi242-4",
+   "day": "wed",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-ab737869",
+   "type": "lecture",
+   "teacherId": "t-84b5d9d7",
+   "teacher": "Кельменбетова Алия Алимбаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Культурология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-thu-1-lecture-bb60",
+   "groupId": "pi242-4",
+   "day": "thu",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-bb60af74",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Компьютерные сети (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-thu-2-lecture-0575",
+   "groupId": "pi242-4",
+   "day": "thu",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-057581fe",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Архитектура и организация вычислительных систем (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-thu-3-lecture-b410",
+   "groupId": "pi242-4",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b410ca8d",
+   "type": "lecture",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Объектно-ориентированное программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-fri-1-seminar-dd2e",
+   "groupId": "pi242-4",
+   "day": "fri",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-dd2eaae5",
+   "type": "seminar",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Психология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-fri-2-lecture-dd2e",
+   "groupId": "pi242-4",
+   "day": "fri",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-dd2eaae5",
+   "type": "lecture",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Психология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-fri-3-seminar-6f8b",
+   "groupId": "pi242-4",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-6f8bbe52",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Социология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-fri-4-lecture-6f8b",
+   "groupId": "pi242-4",
+   "day": "fri",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-6f8bbe52",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Социология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-4-fri-5-practical-0575",
+   "groupId": "pi242-4",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-057581fe",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 10,
+    "rawSubject": "Архитектура и организация вычислительных систем (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-mon-4-other-e6c1",
+   "groupId": "ret241-4-1",
+   "day": "mon",
+   "slotStart": 4,
+   "slotEnd": 5,
+   "start": "11:00",
+   "end": "12:50",
+   "subjectId": "s-e6c11acf",
+   "type": "other",
+   "teacherId": "t-e91262d2",
+   "teacher": "Алимбетов Куанышбек Кишкинбаевич",
+   "room": "Спорт зал",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Физическая культура - II"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": [
+    "lesson type not printed in source (kept as 'other')"
+   ]
+  },
+  {
+   "id": "ret241-4-1-mon-7-practical-c86e",
+   "groupId": "ret241-4-1",
+   "day": "mon",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-c86e9c32",
+   "type": "practical",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Радиосети спутниковой связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-tue-7-lecture-6f8b",
+   "groupId": "ret241-4-1",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-6f8bbe52",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Социология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-tue-8-lecture-9a31",
+   "groupId": "ret241-4-1",
+   "day": "tue",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-9a31527b",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Политология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-tue-9-seminar-9a31",
+   "groupId": "ret241-4-1",
+   "day": "tue",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-9a31527b",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Политология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-tue-10-seminar-6f8b",
+   "groupId": "ret241-4-1",
+   "day": "tue",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-6f8bbe52",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Социология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-wed-3-seminar-ab73",
+   "groupId": "ret241-4-1",
+   "day": "wed",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-ab737869",
+   "type": "seminar",
+   "teacherId": "t-30a4a5ba",
+   "teacher": "Касымбек Алмат Талгатулы",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Культурология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-wed-4-lecture-ab73",
+   "groupId": "ret241-4-1",
+   "day": "wed",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-ab737869",
+   "type": "lecture",
+   "teacherId": "t-84b5d9d7",
+   "teacher": "Кельменбетова Алия Алимбаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Культурология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-wed-5-lecture-dd2e",
+   "groupId": "ret241-4-1",
+   "day": "wed",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-dd2eaae5",
+   "type": "lecture",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Психология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-wed-6-seminar-dd2e",
+   "groupId": "ret241-4-1",
+   "day": "wed",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-dd2eaae5",
+   "type": "seminar",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "204",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Психология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-thu-6-lecture-c86e",
+   "groupId": "ret241-4-1",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-c86e9c32",
+   "type": "lecture",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Радиосети спутниковой связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-thu-7-lecture-06b6",
+   "groupId": "ret241-4-1",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-06b65c4c",
+   "type": "lecture",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "GM 4",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Антенно-фидерные устройства( лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-thu-8-lecture-eb79",
+   "groupId": "ret241-4-1",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-eb79b3dd",
+   "type": "lecture",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "GM 10",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Метрология стандартизация и сертификация техники связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-thu-9-practical-eb79",
+   "groupId": "ret241-4-1",
+   "day": "thu",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-eb79b3dd",
+   "type": "practical",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "GM 6",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Метрология стандартизация и сертификация техники связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-thu-10-lecture-5d37",
+   "groupId": "ret241-4-1",
+   "day": "thu",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-5d3738d9",
+   "type": "lecture",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "GM 7",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Электроника и схемотехника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-fri-1-practical-5d37",
+   "groupId": "ret241-4-1",
+   "day": "fri",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-5d3738d9",
+   "type": "practical",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Электроника и схемотехника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-1-fri-3-practical-06b6",
+   "groupId": "ret241-4-1",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-06b65c4c",
+   "type": "practical",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 11,
+    "rawSubject": "Антенно-фидерные устройства( практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-mon-7-other-e6c1",
+   "groupId": "ret241-4-2",
+   "day": "mon",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-e6c11acf",
+   "type": "other",
+   "teacherId": "t-e91262d2",
+   "teacher": "Алимбетов Куанышбек Кишкинбаевич",
+   "room": "Спорт зал",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Физическая культура - II"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": [
+    "lesson type not printed in source (kept as 'other')"
+   ]
+  },
+  {
+   "id": "ret241-4-2-mon-9-practical-c86e",
+   "groupId": "ret241-4-2",
+   "day": "mon",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-c86e9c32",
+   "type": "practical",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Радиосети спутниковой связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-tue-7-lecture-6f8b",
+   "groupId": "ret241-4-2",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-6f8bbe52",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Социология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-tue-8-lecture-9a31",
+   "groupId": "ret241-4-2",
+   "day": "tue",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-9a31527b",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Политология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-tue-9-seminar-9a31",
+   "groupId": "ret241-4-2",
+   "day": "tue",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-9a31527b",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Политология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-tue-10-seminar-6f8b",
+   "groupId": "ret241-4-2",
+   "day": "tue",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-6f8bbe52",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Социология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-wed-3-seminar-ab73",
+   "groupId": "ret241-4-2",
+   "day": "wed",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-ab737869",
+   "type": "seminar",
+   "teacherId": "t-30a4a5ba",
+   "teacher": "Касымбек Алмат Талгатулы",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Культурология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-wed-4-lecture-ab73",
+   "groupId": "ret241-4-2",
+   "day": "wed",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-ab737869",
+   "type": "lecture",
+   "teacherId": "t-84b5d9d7",
+   "teacher": "Кельменбетова Алия Алимбаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Культурология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-wed-5-lecture-dd2e",
+   "groupId": "ret241-4-2",
+   "day": "wed",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-dd2eaae5",
+   "type": "lecture",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Психология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-wed-6-seminar-dd2e",
+   "groupId": "ret241-4-2",
+   "day": "wed",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-dd2eaae5",
+   "type": "seminar",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "204",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Психология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-thu-6-lecture-c86e",
+   "groupId": "ret241-4-2",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-c86e9c32",
+   "type": "lecture",
+   "teacherId": "t-d6f83a76",
+   "teacher": "Тортбаев Канат Абилгазиевич",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Радиосети спутниковой связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-thu-7-lecture-06b6",
+   "groupId": "ret241-4-2",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-06b65c4c",
+   "type": "lecture",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "GM 4",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Антенно-фидерные устройства( лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-thu-8-lecture-eb79",
+   "groupId": "ret241-4-2",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-eb79b3dd",
+   "type": "lecture",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "GM 10",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Метрология стандартизация и сертификация техники связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-thu-9-practical-eb79",
+   "groupId": "ret241-4-2",
+   "day": "thu",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-eb79b3dd",
+   "type": "practical",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "GM 6",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Метрология стандартизация и сертификация техники связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-thu-10-lecture-5d37",
+   "groupId": "ret241-4-2",
+   "day": "thu",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-5d3738d9",
+   "type": "lecture",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "GM 7",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Электроника и схемотехника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-fri-1-practical-06b6",
+   "groupId": "ret241-4-2",
+   "day": "fri",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-06b65c4c",
+   "type": "practical",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Антенно-фидерные устройства( практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-4-2-fri-3-practical-5d37",
+   "groupId": "ret241-4-2",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-5d3738d9",
+   "type": "practical",
+   "teacherId": "t-79a50301",
+   "teacher": "Нусупбеков Серик Имансерикович",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 12,
+    "rawSubject": "Электроника и схемотехника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-tue-2-lecture-9a31",
+   "groupId": "ret242-4",
+   "day": "tue",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-9a31527b",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Политология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-tue-3-seminar-9a31",
+   "groupId": "ret242-4",
+   "day": "tue",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-9a31527b",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Политология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-tue-5-practical-c86e",
+   "groupId": "ret242-4",
+   "day": "tue",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-c86e9c32",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Радиосети спутниковой связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-tue-7-practical-5d37",
+   "groupId": "ret242-4",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-5d3738d9",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Электроника и схемотехника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-wed-7-practical-06b6",
+   "groupId": "ret242-4",
+   "day": "wed",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-06b65c4c",
+   "type": "practical",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Антенно-фидерные устройства( практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-wed-9-lecture-ab73",
+   "groupId": "ret242-4",
+   "day": "wed",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-ab737869",
+   "type": "lecture",
+   "teacherId": "t-84b5d9d7",
+   "teacher": "Кельменбетова Алия Алимбаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Культурология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-wed-10-seminar-ab73",
+   "groupId": "ret242-4",
+   "day": "wed",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-ab737869",
+   "type": "seminar",
+   "teacherId": "t-30a4a5ba",
+   "teacher": "Касымбек Алмат Талгатулы",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Культурология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-thu-6-lecture-5d37",
+   "groupId": "ret242-4",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-5d3738d9",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Электроника и схемотехника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-thu-7-lecture-06b6",
+   "groupId": "ret242-4",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-06b65c4c",
+   "type": "lecture",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "GM 4",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Антенно-фидерные устройства( лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-thu-8-lecture-eb79",
+   "groupId": "ret242-4",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-eb79b3dd",
+   "type": "lecture",
+   "teacherId": "t-fd13e53e",
+   "teacher": "Абылай Назерке Патшаханкызы",
+   "room": "GM 14",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Метрология стандартизация и сертификация техники связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-thu-9-practical-eb79",
+   "groupId": "ret242-4",
+   "day": "thu",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-eb79b3dd",
+   "type": "practical",
+   "teacherId": "t-fd13e53e",
+   "teacher": "Абылай Назерке Патшаханкызы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Метрология стандартизация и сертификация техники связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-thu-10-lecture-c86e",
+   "groupId": "ret242-4",
+   "day": "thu",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-c86e9c32",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Радиосети спутниковой связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-fri-2-lecture-dd2e",
+   "groupId": "ret242-4",
+   "day": "fri",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-dd2eaae5",
+   "type": "lecture",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Психология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-fri-3-seminar-dd2e",
+   "groupId": "ret242-4",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-dd2eaae5",
+   "type": "seminar",
+   "teacherId": "t-68747d5a",
+   "teacher": "Атабекова Бактыгул Ботабековна",
+   "room": "204",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Психология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-fri-4-lecture-6f8b",
+   "groupId": "ret242-4",
+   "day": "fri",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-6f8bbe52",
+   "type": "lecture",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Социология (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-fri-5-seminar-6f8b",
+   "groupId": "ret242-4",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-6f8bbe52",
+   "type": "seminar",
+   "teacherId": "t-defdfb5d",
+   "teacher": "Бимолданова Айгуль Амантаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Социология (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-4-fri-7-other-6056",
+   "groupId": "ret242-4",
+   "day": "fri",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-605608a3",
+   "type": "other",
+   "teacherId": "t-e91262d2",
+   "teacher": "Алимбетов Куанышбек Кишкинбаевич",
+   "room": "Спорт зал",
+   "variant": null,
+   "source": {
+    "page": 13,
+    "rawSubject": "Физическая культура - IV"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": [
+    "lesson type not printed in source (kept as 'other')"
+   ]
+  },
+  {
+   "id": "vtpo241-3-mon-5-practical-4e79",
+   "groupId": "vtpo241-3",
+   "day": "mon",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-4e79c780",
+   "type": "practical",
+   "teacherId": "t-b37fe85e",
+   "teacher": "Жаксыбаева Наталья Николаевна",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Системное программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-3-tue-7-lecture-bf60",
+   "groupId": "vtpo241-3",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-bf605112",
+   "type": "lecture",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Программирование на языке Java - II (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-3-tue-8-practical-bf60",
+   "groupId": "vtpo241-3",
+   "day": "tue",
+   "slotStart": 8,
+   "slotEnd": 9,
+   "start": "15:10",
+   "end": "17:00",
+   "subjectId": "s-bf605112",
+   "type": "practical",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Программирование на языке Java - II (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-3-wed-1-practical-d3f2",
+   "groupId": "vtpo241-3",
+   "day": "wed",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-d3f2cebe",
+   "type": "practical",
+   "teacherId": "t-56ec5b90",
+   "teacher": "Кашаганова Гулжан Бакытовна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Методы и средства защиты компьютерной информации (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-3-wed-3-practical-a826",
+   "groupId": "vtpo241-3",
+   "day": "wed",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-a826991d",
+   "type": "practical",
+   "teacherId": "t-73b0a63d",
+   "teacher": "Муканова Жанна Аскаровна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Системы искусственного интеллекта - I (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-3-thu-2-lecture-4e79",
+   "groupId": "vtpo241-3",
+   "day": "thu",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-4e79c780",
+   "type": "lecture",
+   "teacherId": "t-b37fe85e",
+   "teacher": "Жаксыбаева Наталья Николаевна",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Системное программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-3-thu-3-lecture-2777",
+   "groupId": "vtpo241-3",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-277706b0",
+   "type": "lecture",
+   "teacherId": "t-01196e5e",
+   "teacher": "Нурымова Сауле Кенесовна",
+   "room": "GM 14",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Введение в предпринимательство (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-3-thu-4-practical-2777",
+   "groupId": "vtpo241-3",
+   "day": "thu",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-277706b0",
+   "type": "practical",
+   "teacherId": "t-01196e5e",
+   "teacher": "Нурымова Сауле Кенесовна",
+   "room": "GM 11",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Введение в предпринимательство (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-3-thu-6-lecture-a826",
+   "groupId": "vtpo241-3",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-a826991d",
+   "type": "lecture",
+   "teacherId": "t-73b0a63d",
+   "teacher": "Муканова Жанна Аскаровна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Системы искусственног о интеллекта - I (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-3-thu-7-lecture-d3f2",
+   "groupId": "vtpo241-3",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-d3f2cebe",
+   "type": "lecture",
+   "teacherId": "t-56ec5b90",
+   "teacher": "Кашаганова Гулжан Бакытовна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Методы и средства защиты компьютерной информации (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-3-fri-5-lecture-2065",
+   "groupId": "vtpo241-3",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-20657a13",
+   "type": "lecture",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Мультимедиа технологии (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo241-3-fri-6-practical-2065",
+   "groupId": "vtpo241-3",
+   "day": "fri",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-20657a13",
+   "type": "practical",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 14,
+    "rawSubject": "Мультимедиа технологии (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-mon-5-practical-4e79",
+   "groupId": "vtpo242-3",
+   "day": "mon",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-4e79c780",
+   "type": "practical",
+   "teacherId": "t-b37fe85e",
+   "teacher": "Жаксыбаева Наталья Николаевна",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Системное программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-tue-7-lecture-bf60",
+   "groupId": "vtpo242-3",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-bf605112",
+   "type": "lecture",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Программирование на языке Java - II (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-tue-8-practical-bf60",
+   "groupId": "vtpo242-3",
+   "day": "tue",
+   "slotStart": 8,
+   "slotEnd": 9,
+   "start": "15:10",
+   "end": "17:00",
+   "subjectId": "s-bf605112",
+   "type": "practical",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Программирование на языке Java - II (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-wed-1-practical-d3f2",
+   "groupId": "vtpo242-3",
+   "day": "wed",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-d3f2cebe",
+   "type": "practical",
+   "teacherId": "t-56ec5b90",
+   "teacher": "Кашаганова Гулжан Бакытовна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Методы и средства защиты компьютерной информации (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-wed-3-practical-a826",
+   "groupId": "vtpo242-3",
+   "day": "wed",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-a826991d",
+   "type": "practical",
+   "teacherId": "t-73b0a63d",
+   "teacher": "Муканова Жанна Аскаровна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Системы искусственного интеллекта - I (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-thu-2-lecture-4e79",
+   "groupId": "vtpo242-3",
+   "day": "thu",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-4e79c780",
+   "type": "lecture",
+   "teacherId": "t-b37fe85e",
+   "teacher": "Жаксыбаева Наталья Николаевна",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Системное программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-thu-3-lecture-2777",
+   "groupId": "vtpo242-3",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-277706b0",
+   "type": "lecture",
+   "teacherId": "t-01196e5e",
+   "teacher": "Нурымова Сауле Кенесовна",
+   "room": "GM 14",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Введение в предпринимательство (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-thu-4-practical-2777",
+   "groupId": "vtpo242-3",
+   "day": "thu",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-277706b0",
+   "type": "practical",
+   "teacherId": "t-01196e5e",
+   "teacher": "Нурымова Сауле Кенесовна",
+   "room": "GM 11",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Введение в предпринимательство (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-thu-5-lecture-2065",
+   "groupId": "vtpo242-3",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-20657a13",
+   "type": "lecture",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Мультимедиа технологии (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-thu-6-lecture-a826",
+   "groupId": "vtpo242-3",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-a826991d",
+   "type": "lecture",
+   "teacherId": "t-73b0a63d",
+   "teacher": "Муканова Жанна Аскаровна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Системы искусственног о интеллекта - I (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-thu-7-lecture-d3f2",
+   "groupId": "vtpo242-3",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-d3f2cebe",
+   "type": "lecture",
+   "teacherId": "t-56ec5b90",
+   "teacher": "Кашаганова Гулжан Бакытовна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Методы и средства защиты компьютерной информации (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo242-3-fri-3-practical-2065",
+   "groupId": "vtpo242-3",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-20657a13",
+   "type": "practical",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 15,
+    "rawSubject": "Мультимедиа технологии (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-3-mon-6-practical-52c5",
+   "groupId": "pi242-3",
+   "day": "mon",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-52c58af2",
+   "type": "practical",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 16,
+    "rawSubject": "Управление и контроль командной разработки программного обеспечения (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-3-tue-7-lecture-bf60",
+   "groupId": "pi242-3",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-bf605112",
+   "type": "lecture",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 16,
+    "rawSubject": "Программирование на языке Java - II (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-3-tue-8-practical-bf60",
+   "groupId": "pi242-3",
+   "day": "tue",
+   "slotStart": 8,
+   "slotEnd": 9,
+   "start": "15:10",
+   "end": "17:00",
+   "subjectId": "s-bf605112",
+   "type": "practical",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 16,
+    "rawSubject": "Программирование на языке Java - II (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-3-tue-10-lecture-52c5",
+   "groupId": "pi242-3",
+   "day": "tue",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-52c58af2",
+   "type": "lecture",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 16,
+    "rawSubject": "Управление и контроль командной разработки программного обеспечения (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-3-wed-1-practical-d3f2",
+   "groupId": "pi242-3",
+   "day": "wed",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-d3f2cebe",
+   "type": "practical",
+   "teacherId": "t-56ec5b90",
+   "teacher": "Кашаганова Гулжан Бакытовна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 16,
+    "rawSubject": "Методы и средства защиты компьютерной информации (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-3-thu-3-lecture-2777",
+   "groupId": "pi242-3",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-277706b0",
+   "type": "lecture",
+   "teacherId": "t-01196e5e",
+   "teacher": "Нурымова Сауле Кенесовна",
+   "room": "GM 14",
+   "variant": null,
+   "source": {
+    "page": 16,
+    "rawSubject": "Введение в предпринимательство (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-3-thu-4-practical-2777",
+   "groupId": "pi242-3",
+   "day": "thu",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-277706b0",
+   "type": "practical",
+   "teacherId": "t-01196e5e",
+   "teacher": "Нурымова Сауле Кенесовна",
+   "room": "GM 11",
+   "variant": null,
+   "source": {
+    "page": 16,
+    "rawSubject": "Введение в предпринимательство (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-3-thu-5-lecture-2065",
+   "groupId": "pi242-3",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-20657a13",
+   "type": "lecture",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 16,
+    "rawSubject": "Мультимедиа технологии (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-3-thu-6-practical-94d7",
+   "groupId": "pi242-3",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-94d75570",
+   "type": "practical",
+   "teacherId": "t-b3fb409d",
+   "teacher": "Майнцер Дмитрий Александрович",
+   "room": "GM 11",
+   "variant": null,
+   "source": {
+    "page": 16,
+    "rawSubject": "UX/UI - дизайн (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-3-thu-7-lecture-d3f2",
+   "groupId": "pi242-3",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-d3f2cebe",
+   "type": "lecture",
+   "teacherId": "t-56ec5b90",
+   "teacher": "Кашаганова Гулжан Бакытовна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 16,
+    "rawSubject": "Методы и средства защиты компьютерной информации (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi242-3-fri-3-practical-2065",
+   "groupId": "pi242-3",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-20657a13",
+   "type": "practical",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 16,
+    "rawSubject": "Мультимедиа технологии (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-tue-7-practical-6bba",
+   "groupId": "ret241-3",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-6bbab70e",
+   "type": "practical",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Cisco - II (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-tue-9-practical-9bac",
+   "groupId": "ret241-3",
+   "day": "tue",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-9bac184d",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Радиопередающие и радиоприемные устройства (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-wed-8-practical-9242",
+   "groupId": "ret241-3",
+   "day": "wed",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-9242a88e",
+   "type": "practical",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Сотовые сети (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-wed-9-practical-f629",
+   "groupId": "ret241-3",
+   "day": "wed",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-f6294054",
+   "type": "practical",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Технология интернет вещей (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-thu-1-lecture-6bba",
+   "groupId": "ret241-3",
+   "day": "thu",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-6bbab70e",
+   "type": "lecture",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "GM 14",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Cisco - II (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-thu-2-lecture-93fa",
+   "groupId": "ret241-3",
+   "day": "thu",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-93fa697a",
+   "type": "lecture",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Технология печатных плат и поверхностного монтажа (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-thu-3-lecture-2777",
+   "groupId": "ret241-3",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-277706b0",
+   "type": "lecture",
+   "teacherId": "t-01196e5e",
+   "teacher": "Нурымова Сауле Кенесовна",
+   "room": "GM 14",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Введение в предпринимательство (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-thu-4-practical-2777",
+   "groupId": "ret241-3",
+   "day": "thu",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-277706b0",
+   "type": "practical",
+   "teacherId": "t-01196e5e",
+   "teacher": "Нурымова Сауле Кенесовна",
+   "room": "GM 11",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Введение в предпринимательство (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-thu-5-lecture-69b1",
+   "groupId": "ret241-3",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-69b17284",
+   "type": "lecture",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Программирование цифровых устройств (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-thu-6-lecture-9242",
+   "groupId": "ret241-3",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-9242a88e",
+   "type": "lecture",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "GM 6",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Сотовые сети (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-thu-8-lecture-9bac",
+   "groupId": "ret241-3",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-9bac184d",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Радиопередающие и радиоприемные устройства (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-thu-9-lecture-f629",
+   "groupId": "ret241-3",
+   "day": "thu",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-f6294054",
+   "type": "lecture",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Технология интернет вещей (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-fri-7-practical-93fa",
+   "groupId": "ret241-3",
+   "day": "fri",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-93fa697a",
+   "type": "practical",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Технология печатных плат и поверхностного монтажа (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret241-3-fri-9-practical-69b1",
+   "groupId": "ret241-3",
+   "day": "fri",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-69b17284",
+   "type": "practical",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 17,
+    "rawSubject": "Программирование цифровых устройств (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-tue-7-practical-6bba",
+   "groupId": "ret242-3",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-6bbab70e",
+   "type": "practical",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Cisco - II (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-tue-9-practical-9bac",
+   "groupId": "ret242-3",
+   "day": "tue",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-9bac184d",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Радиопередающие и радиоприемные устройства (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-wed-8-practical-9242",
+   "groupId": "ret242-3",
+   "day": "wed",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-9242a88e",
+   "type": "practical",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Сотовые сети (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-wed-9-practical-f629",
+   "groupId": "ret242-3",
+   "day": "wed",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-f6294054",
+   "type": "practical",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Технология интернет вещей (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-thu-1-lecture-6bba",
+   "groupId": "ret242-3",
+   "day": "thu",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-6bbab70e",
+   "type": "lecture",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "GM 14",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Cisco - II (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-thu-2-lecture-93fa",
+   "groupId": "ret242-3",
+   "day": "thu",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-93fa697a",
+   "type": "lecture",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Технология печатных плат и поверхностного монтажа (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-thu-3-lecture-2777",
+   "groupId": "ret242-3",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-277706b0",
+   "type": "lecture",
+   "teacherId": "t-01196e5e",
+   "teacher": "Нурымова Сауле Кенесовна",
+   "room": "GM 14",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Введение в предпринимательство (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-thu-4-practical-2777",
+   "groupId": "ret242-3",
+   "day": "thu",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-277706b0",
+   "type": "practical",
+   "teacherId": "t-01196e5e",
+   "teacher": "Нурымова Сауле Кенесовна",
+   "room": "GM 11",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Введение в предпринимательство (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-thu-5-lecture-69b1",
+   "groupId": "ret242-3",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-69b17284",
+   "type": "lecture",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Программирование цифровых устройств (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-thu-6-lecture-9242",
+   "groupId": "ret242-3",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-9242a88e",
+   "type": "lecture",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "GM 6",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Сотовые сети (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-thu-8-lecture-9bac",
+   "groupId": "ret242-3",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-9bac184d",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Радиопередающие и радиоприемные устройства (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-thu-9-lecture-f629",
+   "groupId": "ret242-3",
+   "day": "thu",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-f6294054",
+   "type": "lecture",
+   "teacherId": "t-3d3cd2a3",
+   "teacher": "Мирзакулова Шарафат Абдурахимовна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Технология интернет вещей (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-fri-7-practical-93fa",
+   "groupId": "ret242-3",
+   "day": "fri",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-93fa697a",
+   "type": "practical",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Технология печатных плат и поверхностного монтажа (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret242-3-fri-9-practical-69b1",
+   "groupId": "ret242-3",
+   "day": "fri",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-69b17284",
+   "type": "practical",
+   "teacherId": "t-5facce2a",
+   "teacher": "Луганская Сауле Плановна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 18,
+    "rawSubject": "Программирование цифровых устройств (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo251-4-mon-1-lecture-9c8e",
+   "groupId": "vtpo251-4",
+   "day": "mon",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-9c8ef3e1",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 19,
+    "rawSubject": "Электроника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo251-4-mon-2-practical-9c8e",
+   "groupId": "vtpo251-4",
+   "day": "mon",
+   "slotStart": 2,
+   "slotEnd": 3,
+   "start": "09:00",
+   "end": "10:50",
+   "subjectId": "s-9c8ef3e1",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 19,
+    "rawSubject": "Электроника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo251-4-mon-4-lecture-9ca1",
+   "groupId": "vtpo251-4",
+   "day": "mon",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-9ca10c47",
+   "type": "lecture",
+   "teacherId": "t-548a036a",
+   "teacher": "Стамгазиева Жибек Кайргалиевна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 19,
+    "rawSubject": "Дискретная математика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo251-4-mon-5-practical-9ca1",
+   "groupId": "vtpo251-4",
+   "day": "mon",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-9ca10c47",
+   "type": "practical",
+   "teacherId": "t-548a036a",
+   "teacher": "Стамгазиева Жибек Кайргалиевна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 19,
+    "rawSubject": "Дискретная математика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo251-4-tue-4-seminar-36a0",
+   "groupId": "vtpo251-4",
+   "day": "tue",
+   "slotStart": 4,
+   "slotEnd": 6,
+   "start": "11:00",
+   "end": "14:00",
+   "subjectId": "s-36a0b2a9",
+   "type": "seminar",
+   "teacherId": "t-f3247cd7",
+   "teacher": "Касымжанова Маржан Ерлановна",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 19,
+    "rawSubject": "Казахский (Русcкий) язык - II(семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo251-4-wed-1-lecture-54de",
+   "groupId": "vtpo251-4",
+   "day": "wed",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-54de0997",
+   "type": "lecture",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 19,
+    "rawSubject": "Алгоритмизация и программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo251-4-wed-2-practical-54de",
+   "groupId": "vtpo251-4",
+   "day": "wed",
+   "slotStart": 2,
+   "slotEnd": 3,
+   "start": "09:00",
+   "end": "10:50",
+   "subjectId": "s-54de0997",
+   "type": "practical",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 19,
+    "rawSubject": "Алгоритмизация и программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo251-4-wed-4-seminar-8c7d",
+   "groupId": "vtpo251-4",
+   "day": "wed",
+   "slotStart": 4,
+   "slotEnd": 6,
+   "start": "11:00",
+   "end": "14:00",
+   "subjectId": "s-8c7d7fcd",
+   "type": "seminar",
+   "teacherId": "t-f3d9fe98",
+   "teacher": "Окенова Баян Болатканкызы",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 19,
+    "rawSubject": "Иностранный язык - II (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo251-4-thu-1-lecture-bd41",
+   "groupId": "vtpo251-4",
+   "day": "thu",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-bd41e6be",
+   "type": "lecture",
+   "teacherId": "t-5b4e645d",
+   "teacher": "Канай Назира Сайлаубаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 19,
+    "rawSubject": "Академическое письмо (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo251-4-thu-3-seminar-bd41",
+   "groupId": "vtpo251-4",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-bd41e6be",
+   "type": "seminar",
+   "teacherId": "t-5b4e645d",
+   "teacher": "Канай Назира Сайлаубаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 19,
+    "rawSubject": "Академическое письмо (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-4-mon-1-practical-54de",
+   "groupId": "vtpo252-4",
+   "day": "mon",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-54de0997",
+   "type": "practical",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 20,
+    "rawSubject": "Алгоритмизация и программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-4-mon-3-lecture-54de",
+   "groupId": "vtpo252-4",
+   "day": "mon",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-54de0997",
+   "type": "lecture",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 20,
+    "rawSubject": "Алгоритмизация и программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-4-mon-4-lecture-9c8e",
+   "groupId": "vtpo252-4",
+   "day": "mon",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-9c8ef3e1",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 20,
+    "rawSubject": "Электроника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-4-mon-5-practical-9c8e",
+   "groupId": "vtpo252-4",
+   "day": "mon",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-9c8ef3e1",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 20,
+    "rawSubject": "Электроника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-4-tue-1-practical-9ca1",
+   "groupId": "vtpo252-4",
+   "day": "tue",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-9ca10c47",
+   "type": "practical",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 20,
+    "rawSubject": "Дискретная математика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-4-tue-3-lecture-9ca1",
+   "groupId": "vtpo252-4",
+   "day": "tue",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-9ca10c47",
+   "type": "lecture",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 20,
+    "rawSubject": "Дискретная математика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-4-tue-4-seminar-36a0",
+   "groupId": "vtpo252-4",
+   "day": "tue",
+   "slotStart": 4,
+   "slotEnd": 6,
+   "start": "11:00",
+   "end": "14:00",
+   "subjectId": "s-36a0b2a9",
+   "type": "seminar",
+   "teacherId": "t-5b4e645d",
+   "teacher": "Канай Назира Сайлаубаевна",
+   "room": "205",
+   "variant": null,
+   "source": {
+    "page": 20,
+    "rawSubject": "Казахский (Русcкий) язык - II(семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-4-wed-6-lecture-bd41",
+   "groupId": "vtpo252-4",
+   "day": "wed",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-bd41e6be",
+   "type": "lecture",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 20,
+    "rawSubject": "Академическое письмо (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-4-wed-8-seminar-bd41",
+   "groupId": "vtpo252-4",
+   "day": "wed",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-bd41e6be",
+   "type": "seminar",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 20,
+    "rawSubject": "Академическое письмо (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-4-thu-7-seminar-8c7d",
+   "groupId": "vtpo252-4",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 9,
+   "start": "14:10",
+   "end": "17:00",
+   "subjectId": "s-8c7d7fcd",
+   "type": "seminar",
+   "teacherId": "t-f3d9fe98",
+   "teacher": "Окенова Баян Болатканкызы",
+   "room": "107",
+   "variant": null,
+   "source": {
+    "page": 20,
+    "rawSubject": "Иностранный язык - II (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi251-4-mon-4-lecture-9ca1",
+   "groupId": "pi251-4",
+   "day": "mon",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-9ca10c47",
+   "type": "lecture",
+   "teacherId": "t-548a036a",
+   "teacher": "Стамгазиева Жибек Кайргалиевна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 21,
+    "rawSubject": "Дискретная математика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi251-4-mon-5-practical-9ca1",
+   "groupId": "pi251-4",
+   "day": "mon",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-9ca10c47",
+   "type": "practical",
+   "teacherId": "t-548a036a",
+   "teacher": "Стамгазиева Жибек Кайргалиевна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 21,
+    "rawSubject": "Дискретная математика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi251-4-tue-4-seminar-36a0",
+   "groupId": "pi251-4",
+   "day": "tue",
+   "slotStart": 4,
+   "slotEnd": 6,
+   "start": "11:00",
+   "end": "14:00",
+   "subjectId": "s-36a0b2a9",
+   "type": "seminar",
+   "teacherId": "t-f3247cd7",
+   "teacher": "Касымжанова Маржан Ерлановна",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 21,
+    "rawSubject": "Казахский (Русcкий) язык - II(семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi251-4-wed-1-lecture-54de",
+   "groupId": "pi251-4",
+   "day": "wed",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-54de0997",
+   "type": "lecture",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 21,
+    "rawSubject": "Алгоритмизация и программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi251-4-wed-2-practical-54de",
+   "groupId": "pi251-4",
+   "day": "wed",
+   "slotStart": 2,
+   "slotEnd": 3,
+   "start": "09:00",
+   "end": "10:50",
+   "subjectId": "s-54de0997",
+   "type": "practical",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 21,
+    "rawSubject": "Алгоритмизация и программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi251-4-wed-4-seminar-8c7d",
+   "groupId": "pi251-4",
+   "day": "wed",
+   "slotStart": 4,
+   "slotEnd": 6,
+   "start": "11:00",
+   "end": "14:00",
+   "subjectId": "s-8c7d7fcd",
+   "type": "seminar",
+   "teacherId": "t-f3d9fe98",
+   "teacher": "Окенова Баян Болатканкызы",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 21,
+    "rawSubject": "Иностранный язык - II (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi251-4-thu-1-lecture-bd41",
+   "groupId": "pi251-4",
+   "day": "thu",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-bd41e6be",
+   "type": "lecture",
+   "teacherId": "t-5b4e645d",
+   "teacher": "Канай Назира Сайлаубаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 21,
+    "rawSubject": "Академическое письмо (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi251-4-thu-3-seminar-bd41",
+   "groupId": "pi251-4",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-bd41e6be",
+   "type": "seminar",
+   "teacherId": "t-5b4e645d",
+   "teacher": "Канай Назира Сайлаубаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 21,
+    "rawSubject": "Академическое письмо (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi251-4-fri-5-lecture-2065",
+   "groupId": "pi251-4",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-20657a13",
+   "type": "lecture",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 21,
+    "rawSubject": "Мультимедиа технологии (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi251-4-fri-6-practical-2065",
+   "groupId": "pi251-4",
+   "day": "fri",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-20657a13",
+   "type": "practical",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 21,
+    "rawSubject": "Мультимедиа технологии (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-4-mon-1-practical-54de",
+   "groupId": "pi252-4",
+   "day": "mon",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-54de0997",
+   "type": "practical",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 22,
+    "rawSubject": "Алгоритмизация и программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-4-mon-3-lecture-54de",
+   "groupId": "pi252-4",
+   "day": "mon",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-54de0997",
+   "type": "lecture",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 22,
+    "rawSubject": "Алгоритмизация и программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-4-tue-1-practical-9ca1",
+   "groupId": "pi252-4",
+   "day": "tue",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-9ca10c47",
+   "type": "practical",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 22,
+    "rawSubject": "Дискретная математика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-4-tue-3-lecture-9ca1",
+   "groupId": "pi252-4",
+   "day": "tue",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-9ca10c47",
+   "type": "lecture",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 22,
+    "rawSubject": "Дискретная математика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-4-tue-4-seminar-36a0",
+   "groupId": "pi252-4",
+   "day": "tue",
+   "slotStart": 4,
+   "slotEnd": 6,
+   "start": "11:00",
+   "end": "14:00",
+   "subjectId": "s-36a0b2a9",
+   "type": "seminar",
+   "teacherId": "t-5b4e645d",
+   "teacher": "Канай Назира Сайлаубаевна",
+   "room": "205",
+   "variant": null,
+   "source": {
+    "page": 22,
+    "rawSubject": "Казахский (Русcкий) язык - II(семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-4-wed-6-lecture-bd41",
+   "groupId": "pi252-4",
+   "day": "wed",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-bd41e6be",
+   "type": "lecture",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 22,
+    "rawSubject": "Академическое письмо (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-4-wed-8-seminar-bd41",
+   "groupId": "pi252-4",
+   "day": "wed",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-bd41e6be",
+   "type": "seminar",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 22,
+    "rawSubject": "Академическое письмо (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-4-thu-7-seminar-8c7d",
+   "groupId": "pi252-4",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 9,
+   "start": "14:10",
+   "end": "17:00",
+   "subjectId": "s-8c7d7fcd",
+   "type": "seminar",
+   "teacherId": "t-f3d9fe98",
+   "teacher": "Окенова Баян Болатканкызы",
+   "room": "107",
+   "variant": null,
+   "source": {
+    "page": 22,
+    "rawSubject": "Иностранный язык - II (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-4-fri-3-practical-2065",
+   "groupId": "pi252-4",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-20657a13",
+   "type": "practical",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "718",
+   "variant": null,
+   "source": {
+    "page": 22,
+    "rawSubject": "Мультимедиа технологии (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret251-4-mon-4-other-e6c1",
+   "groupId": "ret251-4",
+   "day": "mon",
+   "slotStart": 4,
+   "slotEnd": 5,
+   "start": "11:00",
+   "end": "12:50",
+   "subjectId": "s-e6c11acf",
+   "type": "other",
+   "teacherId": "t-e91262d2",
+   "teacher": "Алимбетов Куанышбек Кишкинбаевич",
+   "room": "Спорт зал",
+   "variant": null,
+   "source": {
+    "page": 23,
+    "rawSubject": "Физическая культура - II"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": [
+    "lesson type not printed in source (kept as 'other')"
+   ]
+  },
+  {
+   "id": "ret251-4-mon-7-seminar-36a0",
+   "groupId": "ret251-4",
+   "day": "mon",
+   "slotStart": 7,
+   "slotEnd": 9,
+   "start": "14:10",
+   "end": "17:00",
+   "subjectId": "s-36a0b2a9",
+   "type": "seminar",
+   "teacherId": "t-0170009a",
+   "teacher": "Оналбаева Гульнур Орынбасаровна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 23,
+    "rawSubject": "Казахский (Русcкий) язык - II(семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret251-4-wed-4-seminar-8c7d",
+   "groupId": "ret251-4",
+   "day": "wed",
+   "slotStart": 4,
+   "slotEnd": 6,
+   "start": "11:00",
+   "end": "14:00",
+   "subjectId": "s-8c7d7fcd",
+   "type": "seminar",
+   "teacherId": "t-f3d9fe98",
+   "teacher": "Окенова Баян Болатканкызы",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 23,
+    "rawSubject": "Иностранный язык - II (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret251-4-thu-1-lecture-bd41",
+   "groupId": "ret251-4",
+   "day": "thu",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-bd41e6be",
+   "type": "lecture",
+   "teacherId": "t-5b4e645d",
+   "teacher": "Канай Назира Сайлаубаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 23,
+    "rawSubject": "Академическое письмо (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret251-4-thu-3-seminar-bd41",
+   "groupId": "ret251-4",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-bd41e6be",
+   "type": "seminar",
+   "teacherId": "t-5b4e645d",
+   "teacher": "Канай Назира Сайлаубаевна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 23,
+    "rawSubject": "Академическое письмо (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret251-4-thu-4-lecture-820c",
+   "groupId": "ret251-4",
+   "day": "thu",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-820c0eca",
+   "type": "lecture",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 23,
+    "rawSubject": "Компьютерная графика и прикладные пакеты моделирования сетей телекоммуникаций (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret251-4-thu-5-practical-820c",
+   "groupId": "ret251-4",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-820c0eca",
+   "type": "practical",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 23,
+    "rawSubject": "Компьютерная графика и прикладные пакеты моделирования сетей телекоммуникаций (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret251-4-fri-1-practical-4bd0",
+   "groupId": "ret251-4",
+   "day": "fri",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-4bd002e1",
+   "type": "practical",
+   "teacherId": "t-4122b4da",
+   "teacher": "Жетписбаев Кайратбек Уристимбекович",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 23,
+    "rawSubject": "Физика - II (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret251-4-fri-3-lecture-4bd0",
+   "groupId": "ret251-4",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-4bd002e1",
+   "type": "lecture",
+   "teacherId": "t-4122b4da",
+   "teacher": "Жетписбаев Кайратбек Уристимбекович",
+   "room": "205",
+   "variant": null,
+   "source": {
+    "page": 23,
+    "rawSubject": "Физика - II (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret251-4-fri-4-lecture-e344",
+   "groupId": "ret251-4",
+   "day": "fri",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-e344542f",
+   "type": "lecture",
+   "teacherId": "t-548a036a",
+   "teacher": "Стамгазиева Жибек Кайргалиевна",
+   "room": "205",
+   "variant": null,
+   "source": {
+    "page": 23,
+    "rawSubject": "Высшая математика - ІІ (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret251-4-fri-5-practical-e344",
+   "groupId": "ret251-4",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-e344542f",
+   "type": "practical",
+   "teacherId": "t-548a036a",
+   "teacher": "Стамгазиева Жибек Кайргалиевна",
+   "room": "205",
+   "variant": null,
+   "source": {
+    "page": 23,
+    "rawSubject": "Высшая математика - ІІ (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-mon-9-practical-9c8e",
+   "groupId": "vtpo252-3-1",
+   "day": "mon",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-9c8ef3e1",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "720",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Электроника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-tue-2-practical-adc0",
+   "groupId": "vtpo252-3-1",
+   "day": "tue",
+   "slotStart": 2,
+   "slotEnd": 3,
+   "start": "09:00",
+   "end": "10:50",
+   "subjectId": "s-adc077d5",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Web-технологии I (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-tue-4-lecture-9ca1",
+   "groupId": "vtpo252-3-1",
+   "day": "tue",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-9ca10c47",
+   "type": "lecture",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Дискретная математика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-tue-5-practical-9ca1",
+   "groupId": "vtpo252-3-1",
+   "day": "tue",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-9ca10c47",
+   "type": "practical",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Дискретная математика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-wed-4-practical-b410",
+   "groupId": "vtpo252-3-1",
+   "day": "wed",
+   "slotStart": 4,
+   "slotEnd": 5,
+   "start": "11:00",
+   "end": "12:50",
+   "subjectId": "s-b410ca8d",
+   "type": "practical",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Объектно-ориентированное программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-wed-6-lecture-bd41",
+   "groupId": "vtpo252-3-1",
+   "day": "wed",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-bd41e6be",
+   "type": "lecture",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Академическое письмо (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-wed-8-seminar-bd41",
+   "groupId": "vtpo252-3-1",
+   "day": "wed",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-bd41e6be",
+   "type": "seminar",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Академическое письмо (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-thu-1-lecture-54de",
+   "groupId": "vtpo252-3-1",
+   "day": "thu",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-54de0997",
+   "type": "lecture",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Алгоритмизация и программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-thu-2-lecture-0575",
+   "groupId": "vtpo252-3-1",
+   "day": "thu",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-057581fe",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Архитектура и организация вычислительных систем (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-thu-3-lecture-b410",
+   "groupId": "vtpo252-3-1",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b410ca8d",
+   "type": "lecture",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Объектно-ориентированное программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-thu-5-lecture-9c8e",
+   "groupId": "vtpo252-3-1",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-9c8ef3e1",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 9",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Электроника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-thu-6-lecture-adc0",
+   "groupId": "vtpo252-3-1",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-adc077d5",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 9",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Web-технологии I (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-fri-1-practical-54de",
+   "groupId": "vtpo252-3-1",
+   "day": "fri",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-54de0997",
+   "type": "practical",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Алгоритмизация и программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-1-fri-3-practical-0575",
+   "groupId": "vtpo252-3-1",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-057581fe",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 24,
+    "rawSubject": "Архитектура и организация вычислительных систем (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-tue-2-practical-9c8e",
+   "groupId": "vtpo252-3-2",
+   "day": "tue",
+   "slotStart": 2,
+   "slotEnd": 3,
+   "start": "09:00",
+   "end": "10:50",
+   "subjectId": "s-9c8ef3e1",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Электроника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-tue-4-lecture-9ca1",
+   "groupId": "vtpo252-3-2",
+   "day": "tue",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-9ca10c47",
+   "type": "lecture",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Дискретная математика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-tue-5-practical-9ca1",
+   "groupId": "vtpo252-3-2",
+   "day": "tue",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-9ca10c47",
+   "type": "practical",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Дискретная математика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-wed-4-practical-b410",
+   "groupId": "vtpo252-3-2",
+   "day": "wed",
+   "slotStart": 4,
+   "slotEnd": 5,
+   "start": "11:00",
+   "end": "12:50",
+   "subjectId": "s-b410ca8d",
+   "type": "practical",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Объектно-ориентированное программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-wed-6-lecture-bd41",
+   "groupId": "vtpo252-3-2",
+   "day": "wed",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-bd41e6be",
+   "type": "lecture",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Академическое письмо (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-wed-8-seminar-bd41",
+   "groupId": "vtpo252-3-2",
+   "day": "wed",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-bd41e6be",
+   "type": "seminar",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Академическое письмо (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-thu-1-lecture-54de",
+   "groupId": "vtpo252-3-2",
+   "day": "thu",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-54de0997",
+   "type": "lecture",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Алгоритмизация и программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-thu-2-lecture-0575",
+   "groupId": "vtpo252-3-2",
+   "day": "thu",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-057581fe",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Архитектура и организация вычислительных систем (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-thu-3-lecture-b410",
+   "groupId": "vtpo252-3-2",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b410ca8d",
+   "type": "lecture",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Объектно-ориентированное программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-thu-5-lecture-9c8e",
+   "groupId": "vtpo252-3-2",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-9c8ef3e1",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 9",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Электроника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-thu-6-lecture-adc0",
+   "groupId": "vtpo252-3-2",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-adc077d5",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 9",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Web-технологии I (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-fri-3-practical-54de",
+   "groupId": "vtpo252-3-2",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-54de0997",
+   "type": "practical",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Алгоритмизация и программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-fri-5-practical-adc0",
+   "groupId": "vtpo252-3-2",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-adc077d5",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Web-технологии I (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-3-2-fri-7-practical-0575",
+   "groupId": "vtpo252-3-2",
+   "day": "fri",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-057581fe",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 25,
+    "rawSubject": "Архитектура и организация вычислительных систем (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-mon-1-practical-bb60",
+   "groupId": "vtpo252-2",
+   "day": "mon",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-bb60af74",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Компьютерные сети (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-mon-3-practical-b410",
+   "groupId": "vtpo252-2",
+   "day": "mon",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b410ca8d",
+   "type": "practical",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Объектно-ориентированное программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-mon-5-practical-4e79",
+   "groupId": "vtpo252-2",
+   "day": "mon",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-4e79c780",
+   "type": "practical",
+   "teacherId": "t-b37fe85e",
+   "teacher": "Жаксыбаева Наталья Николаевна",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Системное программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-tue-2-practical-9c8e",
+   "groupId": "vtpo252-2",
+   "day": "tue",
+   "slotStart": 2,
+   "slotEnd": 3,
+   "start": "09:00",
+   "end": "10:50",
+   "subjectId": "s-9c8ef3e1",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Электроника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-tue-4-lecture-9ca1",
+   "groupId": "vtpo252-2",
+   "day": "tue",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-9ca10c47",
+   "type": "lecture",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Дискретная математика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-tue-5-practical-9ca1",
+   "groupId": "vtpo252-2",
+   "day": "tue",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-9ca10c47",
+   "type": "practical",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Дискретная математика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-tue-7-lecture-bf60",
+   "groupId": "vtpo252-2",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-bf605112",
+   "type": "lecture",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Программирование на языке Java - II (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-tue-8-practical-bf60",
+   "groupId": "vtpo252-2",
+   "day": "tue",
+   "slotStart": 8,
+   "slotEnd": 9,
+   "start": "15:10",
+   "end": "17:00",
+   "subjectId": "s-bf605112",
+   "type": "practical",
+   "teacherId": "t-5a8dfe83",
+   "teacher": "Турганбай Куралай Егынбайкызы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Программирование на языке Java - II (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-wed-6-lecture-bd41",
+   "groupId": "vtpo252-2",
+   "day": "wed",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-bd41e6be",
+   "type": "lecture",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Академическое письмо (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-wed-8-seminar-bd41",
+   "groupId": "vtpo252-2",
+   "day": "wed",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-bd41e6be",
+   "type": "seminar",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Академическое письмо (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-thu-1-lecture-bb60",
+   "groupId": "vtpo252-2",
+   "day": "thu",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-bb60af74",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Компьютерные сети (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-thu-2-lecture-4e79",
+   "groupId": "vtpo252-2",
+   "day": "thu",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-4e79c780",
+   "type": "lecture",
+   "teacherId": "t-b37fe85e",
+   "teacher": "Жаксыбаева Наталья Николаевна",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Системное программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-thu-3-lecture-b410",
+   "groupId": "vtpo252-2",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b410ca8d",
+   "type": "lecture",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Объектно-ориентированное программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-thu-5-lecture-9c8e",
+   "groupId": "vtpo252-2",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-9c8ef3e1",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 9",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Электроника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-thu-6-lecture-a826",
+   "groupId": "vtpo252-2",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-a826991d",
+   "type": "lecture",
+   "teacherId": "t-73b0a63d",
+   "teacher": "Муканова Жанна Аскаровна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Системы искусственног о интеллекта - I (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "vtpo252-2-fri-3-practical-a826",
+   "groupId": "vtpo252-2",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-a826991d",
+   "type": "practical",
+   "teacherId": "t-73b0a63d",
+   "teacher": "Муканова Жанна Аскаровна",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 26,
+    "rawSubject": "Системы искусственного интеллекта - I (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-mon-3-practical-b410",
+   "groupId": "pi252-3",
+   "day": "mon",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b410ca8d",
+   "type": "practical",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Объектно-ориентированное программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-tue-1-practical-9ca1",
+   "groupId": "pi252-3",
+   "day": "tue",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-9ca10c47",
+   "type": "practical",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Дискретная математика (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-tue-3-lecture-9ca1",
+   "groupId": "pi252-3",
+   "day": "tue",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-9ca10c47",
+   "type": "lecture",
+   "teacherId": "t-533e3f16",
+   "teacher": "Курманбаева Альмира Амангельдиновна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Дискретная математика (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-wed-6-lecture-bd41",
+   "groupId": "pi252-3",
+   "day": "wed",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-bd41e6be",
+   "type": "lecture",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Академическое письмо (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-wed-8-seminar-bd41",
+   "groupId": "pi252-3",
+   "day": "wed",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-bd41e6be",
+   "type": "seminar",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Академическое письмо (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-wed-9-practical-2065",
+   "groupId": "pi252-3",
+   "day": "wed",
+   "slotStart": 9,
+   "slotEnd": 10,
+   "start": "16:10",
+   "end": "18:00",
+   "subjectId": "s-20657a13",
+   "type": "practical",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Мультимедиа технологии (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-thu-1-lecture-54de",
+   "groupId": "pi252-3",
+   "day": "thu",
+   "slotStart": 1,
+   "slotEnd": 1,
+   "start": "08:00",
+   "end": "08:50",
+   "subjectId": "s-54de0997",
+   "type": "lecture",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "GM 3",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Алгоритмизация и программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-thu-2-lecture-0575",
+   "groupId": "pi252-3",
+   "day": "thu",
+   "slotStart": 2,
+   "slotEnd": 2,
+   "start": "09:00",
+   "end": "09:50",
+   "subjectId": "s-057581fe",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Архитектура и организация вычислительных систем (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-thu-3-lecture-b410",
+   "groupId": "pi252-3",
+   "day": "thu",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-b410ca8d",
+   "type": "lecture",
+   "teacherId": "t-496b4be7",
+   "teacher": "Искакова Гульназ Канашевна",
+   "room": "GM 5",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Объектно-ориентированное программирование (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-thu-5-lecture-2065",
+   "groupId": "pi252-3",
+   "day": "thu",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-20657a13",
+   "type": "lecture",
+   "teacherId": "t-8b2b60c3",
+   "teacher": "Аленова Райкуль Алтынбековна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Мультимедиа технологии (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-thu-6-lecture-a574",
+   "groupId": "pi252-3",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-a5743766",
+   "type": "lecture",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "GM 1",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Web - технологии(лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-fri-3-practical-54de",
+   "groupId": "pi252-3",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 4,
+   "start": "10:00",
+   "end": "11:50",
+   "subjectId": "s-54de0997",
+   "type": "practical",
+   "teacherId": "t-e19e8cbd",
+   "teacher": "Амирханов Бауыржан Сайдашевич",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Алгоритмизация и программирование (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-fri-5-practical-a574",
+   "groupId": "pi252-3",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-a5743766",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "209",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Web - технологии(практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "pi252-3-fri-7-practical-0575",
+   "groupId": "pi252-3",
+   "day": "fri",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-057581fe",
+   "type": "practical",
+   "teacherId": "t-986dc544",
+   "teacher": "Айнақұл Әлжан Жақанұлы",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 27,
+    "rawSubject": "Архитектура и организация вычислительных систем (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-tue-5-practical-c86e",
+   "groupId": "ret252-3",
+   "day": "tue",
+   "slotStart": 5,
+   "slotEnd": 6,
+   "start": "12:00",
+   "end": "14:00",
+   "subjectId": "s-c86e9c32",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "717",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Радиосети спутниковой связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-tue-7-practical-5d37",
+   "groupId": "ret252-3",
+   "day": "tue",
+   "slotStart": 7,
+   "slotEnd": 8,
+   "start": "14:10",
+   "end": "16:00",
+   "subjectId": "s-5d3738d9",
+   "type": "practical",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "715",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Электроника и схемотехника (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-wed-4-practical-06b6",
+   "groupId": "ret252-3",
+   "day": "wed",
+   "slotStart": 4,
+   "slotEnd": 5,
+   "start": "11:00",
+   "end": "12:50",
+   "subjectId": "s-06b65c4c",
+   "type": "practical",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "211",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Антенно-фидерные устройства( практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-wed-6-lecture-bd41",
+   "groupId": "ret252-3",
+   "day": "wed",
+   "slotStart": 6,
+   "slotEnd": 7,
+   "start": "13:10",
+   "end": "15:00",
+   "subjectId": "s-bd41e6be",
+   "type": "lecture",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Академическое письмо (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-wed-8-seminar-bd41",
+   "groupId": "ret252-3",
+   "day": "wed",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-bd41e6be",
+   "type": "seminar",
+   "teacherId": "t-5e6b3b2b",
+   "teacher": "Нурбаева Аида Мухтаровна",
+   "room": "212",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Академическое письмо (семинар)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-thu-6-lecture-5d37",
+   "groupId": "ret252-3",
+   "day": "thu",
+   "slotStart": 6,
+   "slotEnd": 6,
+   "start": "13:10",
+   "end": "14:00",
+   "subjectId": "s-5d3738d9",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Электроника и схемотехника (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-thu-7-lecture-06b6",
+   "groupId": "ret252-3",
+   "day": "thu",
+   "slotStart": 7,
+   "slotEnd": 7,
+   "start": "14:10",
+   "end": "15:00",
+   "subjectId": "s-06b65c4c",
+   "type": "lecture",
+   "teacherId": "t-d15fc5e1",
+   "teacher": "Авелбекова Салтанат Шаймардановна",
+   "room": "GM 4",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Антенно-фидерные устройства( лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-thu-8-lecture-eb79",
+   "groupId": "ret252-3",
+   "day": "thu",
+   "slotStart": 8,
+   "slotEnd": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "subjectId": "s-eb79b3dd",
+   "type": "lecture",
+   "teacherId": "t-fd13e53e",
+   "teacher": "Абылай Назерке Патшаханкызы",
+   "room": "GM 14",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Метрология, стандартизация и сертификация техники связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-thu-9-practical-eb79",
+   "groupId": "ret252-3",
+   "day": "thu",
+   "slotStart": 9,
+   "slotEnd": 9,
+   "start": "16:10",
+   "end": "17:00",
+   "subjectId": "s-eb79b3dd",
+   "type": "practical",
+   "teacherId": "t-fd13e53e",
+   "teacher": "Абылай Назерке Патшаханкызы",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Метрология стандартизация и сертификация техники связи (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-thu-10-lecture-c86e",
+   "groupId": "ret252-3",
+   "day": "thu",
+   "slotStart": 10,
+   "slotEnd": 10,
+   "start": "17:10",
+   "end": "18:00",
+   "subjectId": "s-c86e9c32",
+   "type": "lecture",
+   "teacherId": "t-0c723253",
+   "teacher": "Зильгараева Алия Кылышбаевна",
+   "room": "GM 2",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Радиосети спутниковой связи (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-fri-1-practical-4bd0",
+   "groupId": "ret252-3",
+   "day": "fri",
+   "slotStart": 1,
+   "slotEnd": 2,
+   "start": "08:00",
+   "end": "09:50",
+   "subjectId": "s-4bd002e1",
+   "type": "practical",
+   "teacherId": "t-4122b4da",
+   "teacher": "Жетписбаев Кайратбек Уристимбекович",
+   "room": "202",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Физика - II (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-fri-3-lecture-4bd0",
+   "groupId": "ret252-3",
+   "day": "fri",
+   "slotStart": 3,
+   "slotEnd": 3,
+   "start": "10:00",
+   "end": "10:50",
+   "subjectId": "s-4bd002e1",
+   "type": "lecture",
+   "teacherId": "t-4122b4da",
+   "teacher": "Жетписбаев Кайратбек Уристимбекович",
+   "room": "205",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Физика - II (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-fri-4-lecture-e344",
+   "groupId": "ret252-3",
+   "day": "fri",
+   "slotStart": 4,
+   "slotEnd": 4,
+   "start": "11:00",
+   "end": "11:50",
+   "subjectId": "s-e344542f",
+   "type": "lecture",
+   "teacherId": "t-548a036a",
+   "teacher": "Стамгазиева Жибек Кайргалиевна",
+   "room": "205",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Высшая математика - ІІ (лекция)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  },
+  {
+   "id": "ret252-3-fri-5-practical-e344",
+   "groupId": "ret252-3",
+   "day": "fri",
+   "slotStart": 5,
+   "slotEnd": 5,
+   "start": "12:00",
+   "end": "12:50",
+   "subjectId": "s-e344542f",
+   "type": "practical",
+   "teacherId": "t-548a036a",
+   "teacher": "Стамгазиева Жибек Кайргалиевна",
+   "room": "205",
+   "variant": null,
+   "source": {
+    "page": 28,
+    "rawSubject": "Высшая математика - ІІ (практика)"
+   },
+   "verification": "extracted",
+   "flags": [],
+   "notes": []
+  }
+ ]
+}

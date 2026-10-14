@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content="Офлайн-расписание занятий университета" />
+    <meta name="theme-color" content="#F4F6F7" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <title>Расписание</title>
+    <script>
+      // Apply the saved theme before first paint (no flash). Mirrors src/lib/prefs.ts.
+      try {
+        var p = JSON.parse(localStorage.getItem('tt.prefs.v1') || '{}');
+        var t = p.theme === 'light' || p.theme === 'dark' ? p.theme : 'system';
+        var dark = t === 'dark' || (t === 'system' && matchMedia('(prefers-color-scheme: dark)').matches);
+        document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+        document.querySelector('meta[name=theme-color]').content = dark ? '#101314' : '#F4F6F7';
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

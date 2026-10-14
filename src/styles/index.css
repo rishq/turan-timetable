@@ -1,0 +1,109 @@
+@import 'tailwindcss';
+
+/* ---- Design tokens -------------------------------------------------------
+   Neutral cool grey + one jade accent. Lesson types are encoded by hue AND
+   a text label (never colour alone). Radii: 8 / 12 / 18. */
+:root {
+  color-scheme: light;
+  --bg: #f4f6f7;
+  --surface: #ffffff;
+  --surface-2: #eceff1;
+  --line: #dde2e6;
+  --ink: #17191c;
+  --ink-2: #565f67;
+  --accent: #0b7a5c;
+  --accent-ink: #ffffff;
+  --focus: #0b7a5c;
+  --t-lecture: #0b7a5c;
+  --t-practical: #a85a06;
+  --t-seminar: #4457c4;
+  --t-laboratory: #a02b76;
+  --t-other: #565f67;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.05);
+  --shadow-lift: 0 12px 32px rgb(0 0 0 / 0.14);
+  --nav-h: 3.5rem;
+}
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #101314;
+  --surface: #181c1e;
+  --surface-2: #21272a;
+  --line: #2b3236;
+  --ink: #e9ecee;
+  --ink-2: #9aa4aa;
+  --accent: #3fcf9f;
+  --accent-ink: #06231a;
+  --focus: #3fcf9f;
+  --t-lecture: #3fcf9f;
+  --t-practical: #f0a94b;
+  --t-seminar: #93a4ff;
+  --t-laboratory: #ec8cc2;
+  --t-other: #9aa4aa;
+  --shadow: none;
+  --shadow-lift: 0 12px 32px rgb(0 0 0 / 0.5);
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --font-sans: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans', Arial, sans-serif;
+}
+
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 15px;
+  line-height: 1.45;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  text-rendering: optimizeLegibility;
+}
+button, input, select, textarea { font: inherit; color: inherit; }
+button { cursor: pointer; }
+.num { font-variant-numeric: tabular-nums; }
+
+/* Visible, consistent focus for keyboard users. */
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: var(--radius-sm); }
+
+/* Safe areas: status bar / notch / home indicator (PWA standalone + Capacitor). */
+.safe-top { padding-top: env(safe-area-inset-top, 0px); }
+.safe-x { padding-left: env(safe-area-inset-left, 0px); padding-right: env(safe-area-inset-right, 0px); }
+.safe-bottom { padding-bottom: env(safe-area-inset-bottom, 0px); }
+
+/* Lesson type colour hook: set --t on the element. */
+.type-tint { background: color-mix(in oklab, var(--t) 11%, var(--surface)); }
+.type-chip { color: var(--t); background: color-mix(in oklab, var(--t) 13%, transparent); }
+
+/* Native dialog used as bottom sheet (mobile) / centred card (desktop). */
+dialog.sheet {
+  border: 0; padding: 0; color: inherit; background: var(--surface);
+  width: min(100vw, 30rem); max-height: min(88dvh, 40rem);
+  margin: auto 0 0; margin-inline: auto;
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  box-shadow: var(--shadow-lift); overflow: auto;
+}
+dialog.sheet::backdrop { background: rgb(8 12 12 / 0.45); }
+dialog.sheet[open] { animation: sheet-in 0.18s ease-out; }
+@media (min-width: 640px) {
+  dialog.sheet { margin: auto; border-radius: var(--radius-lg); }
+}
+@keyframes sheet-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+
+/* Single, purposeful motion: the live "now" marker eases between positions. */
+.now-marker { transition: left 0.6s ease; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}
